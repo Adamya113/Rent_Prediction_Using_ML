@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Adamya113/Rent_Prediction_Using_ML
+Author: Adamya113
+Author-email: gauradamya725@gmail.com
+Project-URL: Bug Tracker, https://github.com/Adamya113/Rent_Prediction_Using_ML/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Rent_Prediction_Using_ML
+A rent prediction webapp, based on Delhi's dataset. Includes complete CI/CD pipeline along woth MlFlow and AWS ! 
