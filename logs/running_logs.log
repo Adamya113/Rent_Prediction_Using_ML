@@ -1,1 +1,6 @@
 [2025-01-15 10:58:13,818: INFO: main: Welcome to our  custom logging]
+[2025-01-16 14:39:08,643: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-16 14:39:08,659: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-16 14:39:08,719: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-16 14:39:08,769: INFO: common: created directory at: artifacts]
+[2025-01-16 14:39:08,815: INFO: common: created directory at: artifacts/data_validation]

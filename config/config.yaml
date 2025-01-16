@@ -11,9 +11,9 @@ data_validation:
   unzip_data_dir: artifacts/data_ingestion/delhi_num_rental.csv
   STATUS_FILE: artifacts/data_validation/status.txt
 
-# data_transformation:
-#   root_dir: artifacts/data_transformation
-#   data_path: artifacts/data_ingestion/delhi_num_rental.csv
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/delhi_num_rental.csv
 
 # model_trainer:
 #   root_dir: artifacts/model_trainer
