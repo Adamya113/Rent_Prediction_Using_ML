@@ -1,3 +1,4 @@
+dagshub==0.5.1
 pandas 
 mlflow==2.2.2
 notebook
@@ -7,7 +8,7 @@ matplotlib
 python-box==6.0.2
 pyYAML
 tqdm
-ensure==1.0.2
+ensure==1.0.4
 joblib
 types-PyYAML
 Flask
