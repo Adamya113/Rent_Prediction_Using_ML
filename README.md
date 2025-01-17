@@ -170,16 +170,6 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Adamya113/Rent_Prediction_Using_M
 
     ECR_REPOSITORY_NAME = simple-app
 
-<details>
-	<summary>
-		Acknowledgements
-	</summary>
-	- https://mlflow.org/docs/latest/index.html
-	- https://www.youtube.com/watch?v=pxk1Fr33-L4
-	- https://korlakuntasaikamal10.medium.com/implementing-regression-problem-using-torch-5b5bd1a56d69
-</details>
-
-
 
 ## About MLflow 
 MLflow
@@ -187,3 +177,14 @@ MLflow
  - Its Production Grade
  - Trace all of your expriements
  - Logging & tagging your model
+
+<details>
+	<summary>
+		<h3>Acknowledgements</h3>
+	</summary>
+	https://mlflow.org/docs/latest/index.html
+	<br>https://www.youtube.com/watch?v=pxk1Fr33-L4
+	<br>https://korlakuntasaikamal10.medium.com/implementing-regression-problem-using-torch-5b5bd1a56d69
+</details>
+
+
