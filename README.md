@@ -1,7 +1,17 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 # Rent_Prediction_Using_ML
-A rent prediction webapp, based on Delhi's dataset. Includes complete CI/CD pipeline along with MlFlow and AWS ! 
-
+A rent prediction webapp, based on Delhi's dataset. Includes complete CI/CD pipeline along with model tracking via MlFlow and AWS deployment ! 
+The regression model is built using Pytorch.
+<table>
+	<tr>
+ 		<td><img src="https://github.com/user-attachments/assets/784d746c-5f33-4d80-9a7a-05d5fda7e155"></td>
+   		<td><img src="https://github.com/user-attachments/assets/a3a89eea-f1c0-4b7e-9ba1-a10d5a591770"></td>
+	</tr>
+	<tr>
+     		<td><img src="https://github.com/user-attachments/assets/dd32aeec-15c4-4740-b903-0298d031604b"></td>
+       		<td><img src="https://github.com/user-attachments/assets/67187ed7-8a84-4f3b-9b40-05280c8634a2"></td>
+	</tr>
+</table>
 
 
 ## Workflows
